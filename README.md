@@ -5,7 +5,6 @@ Machine-learning approach to classify user's diagnostic state using smartphone s
 Author(s): Patrick Schwab, ETH Zurich <patrick.schwab@hest.ethz.ch>
 License: GPLv3, see LICENSE.txt
 
-![overview](https://s3.amazonaws.com/proddata.sagebase.org/3357581/47271573-d357-476d-8240-7b8be3f64e25/h-carnn.png)
 
 ### USAGE:
 
