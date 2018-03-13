@@ -21,7 +21,7 @@ License: GPLv3, see LICENSE.txt
 
 If you reference our methodology, code or results in your work, please consider citing:
 
-    @article{20.500.11850/224487,
+    @article{schwab2017biomarkers,
       author = {Schwab, Patrick and Khashkhashi Moghaddam, Mohammad A. and Karlen, Walter},
       year = {2017},
       title = {Automated Extraction of Digital Biomarkers for Parkinson's Disease using A Hierarchy of Convolutional Recurrent Attentive Neural Networks},
