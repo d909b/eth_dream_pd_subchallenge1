@@ -5,6 +5,8 @@ Machine-learning approach to classify user's diagnostic state using smartphone s
 Author(s): Patrick Schwab, ETH Zurich <patrick.schwab@hest.ethz.ch>
 License: GPLv3, see LICENSE.txt
 
+![overview](https://s3.amazonaws.com/proddata.sagebase.org/3357581/47271573-d357-476d-8240-7b8be3f64e25/h-carnn.png?response-content-disposition=attachment%3B%20filename%3Dh-carnn.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20180313T094849Z&X-Amz-SignedHeaders=host&X-Amz-Expires=30&X-Amz-Credential=AKIAIV5XCDRXPWB67YRQ%2F20180313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=89ef127cc42a42b838b0fba1819219a733d50de8da4c1672cad4219384e6224b)
+
 ### USAGE:
 
 - Runable scripts are in the dream_parkinsons/apps/ subdirectory.
