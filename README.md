@@ -3,6 +3,7 @@
 Machine-learning approach to classify user's diagnostic state using smartphone sensor data using observational data from [the mPower study](https://www.synapse.org/#!Synapse:syn8717496). You can find documentation of our approach [on Synapse](https://www.synapse.org/#!Synapse:syn10922704/wiki/471154).
 
 Author(s): Patrick Schwab, ETH Zurich <patrick.schwab@hest.ethz.ch>
+
 License: GPLv3, see LICENSE.txt
 
 
